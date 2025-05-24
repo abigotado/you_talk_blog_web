@@ -13,12 +13,13 @@ you_talk_blog_web/
 │   │   └── icons/    # Иконки
 │   └── css/         # Стили
 ├── src/             # Исходный код
-│   ├── pages/       # HTML страницы
-│   │   ├── blog.html
-│   │   └── article.html
-│   └── styles/      # Исходные стили
+│   └── pages/       # HTML страницы
+│       ├── blog.html
+│       └── article.html
 ├── .vscode/         # Настройки VS Code
-└── .gitignore
+├── .gitignore
+└── README.md
+
 ```
 
 ## Запуск проекта
